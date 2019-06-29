@@ -1,0 +1,21 @@
+PACKAGE NAME:  mphidflash-1.6-i586-1_slonly.txz
+PACKAGE MIRROR:  http://packages.slackonly.com/pub/packages/14.2-x86/
+PACKAGE LOCATION:  ./development/mphidflash
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  70 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+mphidflash: mphidflash (command-line tool)
+mphidflash:
+mphidflash: MPHidFlash is a command-line tool for communicating with the
+mphidflash: USB-Bootloader in PIC microcontrollers. It supports Microchips
+mphidflash: HID-Bootloader protocol and runs on various plattforms
+mphidflash: (Windows, Linux, MacOS X).
+mphidflash: see: https://code.google.com/p/mphidflash/
+mphidflash:
+mphidflash:
+mphidflash:
+mphidflash:
+
